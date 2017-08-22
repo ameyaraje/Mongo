@@ -1,5 +1,6 @@
-intro_to_creating_and_reading_documents/
-JSON/
+/intro_to_creating_and_reading_documents/
+/JSON/
 /Week1/M101J/target/
-*.class
-
+.classpath
+.settings
+.project
