@@ -16,7 +16,7 @@ public class FreemarkerStarter {
 		Configuration cfg = new Configuration();
 		try {
 			//Load template from source folder
-			Template template = cfg.getTemplate("index.ftl");
+			Template template = cfg.getTemplate("M101J/src/main/java/index.ftl");
 
 			// Build the data-model
 			Map<String, Object> data = new HashMap<String, Object>();
