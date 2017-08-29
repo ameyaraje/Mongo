@@ -12,6 +12,9 @@ public class MDBC {
 		MongoDatabase db = client.getDatabase("testDB");
 		MongoCollection coll = db.getCollection("movies");
 		
+		
+		
+		
 	}
 
 }
